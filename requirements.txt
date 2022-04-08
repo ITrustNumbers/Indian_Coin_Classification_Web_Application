@@ -1,4 +1,4 @@
 Flask==2.0.2
-tensorflow==1.15
+tensorflow-cpu==1.15
 Pillow==7.1.2
 gunicorn==20.1.0
