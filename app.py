@@ -35,7 +35,7 @@ def prediction():
 
     #Getting user image
     img = request.files['imagefile']
-    img_path = './static/' + img.filename
+    img_path = 'static/' + img.filename
     img.save(img_path)
 
     #getting prediciton
