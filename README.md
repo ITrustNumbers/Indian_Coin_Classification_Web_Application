@@ -1,5 +1,7 @@
 # Indian Coin Classification Web Application
 
+![DOI](https://img.shields.io/badge/DOI-10.31224%2Fosf.io%2Fznxrg-sucess) ![Heroku](https://img.shields.io/badge/Deployment-Heroku-yellow) ![Tensforflow 2.7.0](https://img.shields.io/badge/Tensorflow-2.7.0-blue) ![Val_Acc](https://img.shields.io/badge/Validation%20Acc.-90.62%25-red) ![License](https://img.shields.io/badge/License-CC%20BY%204.0-orange)
+
 ![Application Image](https://github.com/ITrustNumbers/Indian_Coin_Classification_Web_Application/blob/master/Developed_Web_Application.png)
 
 This repository contains the front-end code, that revolves around deploying a Machine Learning Model Developed in one of my research study named "A Novel Convolutional Neural Network for Classifying Indian Coins by Denomination"
