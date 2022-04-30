@@ -1,5 +1,6 @@
 ## PureBasic files
 
+*.pb
 *.pb.cfg
 *.pbi.cfg
 *.pbp
