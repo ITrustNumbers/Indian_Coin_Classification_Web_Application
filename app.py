@@ -14,7 +14,7 @@ Class_labels = ['Five', 'One', 'Ten', 'Two', 'Twenty']
 #Prediction pipeline function
 def model_predict(img_path):
     #Preprocessing
-    img = Image.open(img_path) #Loading image
+    img = Image.open(img_path).convert('RGB') #Loading image
     img = img.resize((320,240)) #Resizing
     img = np.asarray(img)
     img = img/255.0 #Normalizing
